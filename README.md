@@ -40,3 +40,4 @@ NoEmitOnErrorsPlugin	编译时遇到错误跳过发布阶段，确保不会出�
 
 UglifyjsWebpackPlugin	压缩js
 
+CleanWebpackPlugin 在每次构建之前清理文件夹
